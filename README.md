@@ -274,8 +274,6 @@ The application is currently implemented as a standalone HTML file containing th
 
 **Brian-Alcquimarc S. Lawama**
 
-**Alcquimarc**
-
 Facebook:
 https://facebook.com/alcquimarc
 
